@@ -82,7 +82,8 @@ Utilizamos o **Amazon SNS** para envio de alertas automáticos com base nos dado
 
 ## 🎥 Vídeo de Demonstração
 
-[📺 Clique aqui para assistir no YouTube](https://youtu.be/TvafCNq8zMI?si=b_uhTkSPptRCkq1l)
+[📺 Clique aqui para assistir no YouTube 1](https://youtu.be/TvafCNq8zMI?si=b_uhTkSPptRCkq1l)
+[📺 Clique aqui para assistir no YouTube 2](https://youtu.be/VQ0lXQwebl0)
 
 ---
 
