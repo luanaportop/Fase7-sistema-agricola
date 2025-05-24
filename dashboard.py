@@ -20,6 +20,8 @@ from fase3.funcoes import (
 )
 
 
+import os
+os.environ["STREAMLIT_WATCH_MODE"] = "false"
 
 import torch
 
@@ -59,6 +61,7 @@ st.title("Sistema Integrado de Gestão Agro")
 
 menu = st.sidebar.selectbox("Escolha a Fase para visualizar", [
     "Fase 1 - Cálculos de Área e Insumos",
+    "Fase 2 - Banco de Dados",
     "Fase 3 - IoT e Automação",
     "Fase 4 - Dashboard de Irrigação",
     "Fase 6 - Visão Computacional"
