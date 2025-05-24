@@ -8,7 +8,7 @@ from .modelos import Base, Cultura
 
 
 import os
-caminho = os.path.join(os.getcwd(), "dados_fase1.csv")
+caminho = os.path.join(os.getcwd(), "fase1dados.csv")
 
 def importar_dados_fase1():
     engine = create_engine(DATABASE_URL)

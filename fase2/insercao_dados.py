@@ -4,7 +4,7 @@ from conexao_mysql import conectar
 
 def inserir_dados_csv():
     # Caminho absoluto para o arquivo CSV
-    caminho_csv = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'dados_fase1.csv'))
+    caminho_csv = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'fase1dados.csv'))
     
     df = pd.read_csv(caminho_csv)
     
